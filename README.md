@@ -2,6 +2,9 @@
 
 CVA6 Platform is a multi-core CVA6 with CV-MESH intended for software testing and regression.
 
+![CVA6 Platform](https://github.com/rickoco/cva6-platform/assets/2498391/9a56ca5f-2aef-4118-ac86-1dc678ab3488)
+
+
 ## Genesys II: Getting Started
 
 1. Download the pre-built bitstream from [downloads.openhwgroup.org](https://s3.eu-west-1.amazonaws.com/downloads.openhwgroup.org/cva6/20231104-3-uboot-g2-2c.bit).
