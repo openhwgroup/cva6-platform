@@ -2,7 +2,7 @@
 
 CVA6 Platform is a multi-core CVA6 with CV-MESH intended for software testing and regression.
 
-![CVA6 Platform](static/redhat_openhwgroup.png)
+![CVA6 Platform](static/cva6slide.png)
 
 
 ## Genesys II: Getting Started
